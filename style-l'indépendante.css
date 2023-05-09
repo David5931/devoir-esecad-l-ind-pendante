@@ -1,0 +1,29 @@
+* {font family:Aria,Verdana,Sans Serif}
+
+h1 {color:#aa3322; font-size:20px; padding:0px 0px 0px 40px}
+
+h2 {color:black; font-size:24px; padding:0px 0px 0px 40px}
+
+h3 {color:black; font-size:18px; padding:0px 0px 0px 40px}
+
+p {color:black; font-size:14px; padding:0px 0px 0px 40px}
+	
+a {color:#cccccc; font-size:14px; padding:0px 0px 0px 40px}
+
+a:hover{color:#aaaaaa}
+
+dt{background:#aa3322; color:#cccccc; border-color:#cccccc;border-bottom:dotted 1px; padding: 2px 50px 5px 40px; margin:0px 100px 0px 0px  }
+dl:hover{color:white;}
+
+ td{border:solid; color:black; font-size:15px; border-style:}
+
+
+
+blockquote {background:#ededed; border:#aa3322; color: black; font-size:16px ; margin: 20px 0px 20px 80px; padding:10px 0px 15px 10px; 
+border-style:dotted; width:450px }
+
+footer {background:#aaaaaa; color: #721717; font-size:14px; text-align: center; padding:30px 50px 30px 10px; margin:0px 100px 0px 0px}
+
+img {margin: 0px 0px 0px 40px}
+
+div {color:#aa3322}
